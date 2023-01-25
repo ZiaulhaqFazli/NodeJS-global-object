@@ -1,4 +1,4 @@
-//Global object
+//Global object 
 console.log(global)
 
 // Set the timeout for 3 seconds and console the text = Timeout Called! after 3 seconds
